@@ -1,4 +1,4 @@
 # deeplearning-numpy
 use numpy to implement Neural Networks
 
-Read More by [Blog](https://leonzhao.cn)
+Read More from [Blog](https://leonzhao.cn)
